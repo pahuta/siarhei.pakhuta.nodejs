@@ -33,7 +33,7 @@
     "express": "4.16.2",
     "express-session": "1.15.6",
     "glob": "7.1.2",
-    "jsonwebtoken": "8.1.0",
+    "jsonwebtoken": "9.0.0",
     "minimist": "1.2.0",
     "mongodb": "2.2.14",
     "mongoose": "4.13.6",
